@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a Software Engineer based in Nigeria. I love w
 - Node.js
 
 ## 📫 How to Reach Me
-- [Email] (busariroqeeb16@gmail.com)
+- [Email](busariroqeeb16@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/busariroqeeb)
 
 ## 🎉 Fun Fact
