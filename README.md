@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm [Busari Roqeeb] 👋
 
-<!--
-**Callerstudios/Callerstudios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a Software Engineer based in Nigeria. I love working on responsive and fun applications.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- [Javascript/Reactjs]
+- [Python]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🌱 Currently Learning
+- [Node.js]
+
+## 📫 How to Reach Me
+- [busariroqeeb16@gmail.com]
+- [[Your LinkedIn Profile](https://www.linkedin.com/in/busariroqeeb)]
+
+## 🎉 Fun Fact
+[I started learning chess and have been hooked ever since—my favorite opening is the Sicilian Defense!]
+
+Thanks for visiting my profile! Feel free to check out my repositories and reach out if you want to collaborate or just chat!
