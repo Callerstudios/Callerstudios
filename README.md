@@ -11,8 +11,8 @@ Welcome to my GitHub profile! I'm a Software Engineer based in Nigeria. I love w
 - Node.js
 
 ## 📫 How to Reach Me
-- busariroqeeb16@gmail.com
-- [Your LinkedIn Profile](https://www.linkedin.com/in/busariroqeeb)
+- [Email] (busariroqeeb16@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/busariroqeeb)
 
 ## 🎉 Fun Fact
 I started learning chess and have been hooked ever since—my favorite opening is the Sicilian Defense!
