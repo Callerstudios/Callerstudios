@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a Software Engineer based in Nigeria. I love working on responsive and fun applications.
 
 ## 🔧 Technologies & Tools
-- Javascript/Reactjs
+- Javascript/Reactjs/Typescript
 - Python
 
 
