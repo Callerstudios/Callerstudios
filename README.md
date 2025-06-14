@@ -19,6 +19,12 @@ Welcome to my GitHub profile! I'm a Software Engineer based in Nigeria. I love w
 ![](https://nirzak-streak-stats.vercel.app/?user=callerstudios&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=callerstudios&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=callerstudios&theme=gotham&no-frame=false&no-bg=false&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=callerstudios&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+
 ## 🎉 Fun Fact
 I started learning chess and have been hooked ever since—my favorite opening is the Fried Liver Attack!
 
