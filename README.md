@@ -16,6 +16,8 @@ Welcome to my GitHub profile! I'm a Software Engineer based in Nigeria. I love w
 ![](https://nirzak-streak-stats.vercel.app/?user=callerstudios&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=callerstudios&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+[![Busari Roqeeb profile views](https://u8views.com/api/v1/github/profiles/127642899/views/day-week-month-total-count.svg)](https://u8views.com/github/Callerstudios)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=callerstudios&theme=gotham&no-frame=false&no-bg=false&margin-w=4)
 
